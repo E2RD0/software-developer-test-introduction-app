@@ -1,0 +1,23 @@
+{
+  "name": "musical-lake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/cli.ts",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Eduardo Estrada",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.1.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.0"
+  }
+}
