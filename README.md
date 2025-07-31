@@ -17,7 +17,7 @@ Runs tests + CLI and auto-removes the container after exiting the program:
 docker compose run --rm app
 ```
 
-### Run locally
+### 2. Run locally
 ```bash
 npm install
 npm test (optional)
