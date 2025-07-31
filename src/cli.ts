@@ -1,4 +1,3 @@
-#!/usr/bin/env ts-node
 import readline from 'readline';
 import { getSongContinuation } from './index';
 import { Animal } from './songs';
